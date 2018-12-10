@@ -1,0 +1,28 @@
+/* 
+    Created on : Dec 5, 2018, 1:52:07 PM
+    Author     : DTodorov
+*/
+
+.main-content{
+   margin-top: 20px;
+}
+.form-element{
+     margin-top: 20px;
+}
+.alert{
+    margin-top: 10px;
+}
+
+.vs-class{
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+.vs-class p {
+    margin: 5px;
+}
+
+div.jQBracket .team div.label {
+    color:#157EF6 !important;
+}
