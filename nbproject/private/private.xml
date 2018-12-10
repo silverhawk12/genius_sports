@@ -5,11 +5,12 @@
         <group>
             <file>file:/C:/xampp/htdocs/genius_sports/resources/views/tournaments/index.blade.php</file>
             <file>file:/C:/xampp/htdocs/genius_sports/routes/web.php</file>
-            <file>file:/C:/xampp/htdocs/genius_sports/resources/views/tournaments/show.blade.php</file>
             <file>file:/C:/xampp/htdocs/genius_sports/app/Http/Controllers/MatchController.php</file>
+            <file>file:/C:/xampp/htdocs/genius_sports/resources/views/tournaments/show.blade.php</file>
             <file>file:/C:/xampp/htdocs/genius_sports/public/css/custom.css</file>
-            <file>file:/C:/xampp/htdocs/genius_sports/app/Http/Controllers/TournamentController.php</file>
             <file>file:/C:/xampp/htdocs/genius_sports/app/Http/Controllers/AjaxController.php</file>
+            <file>file:/C:/xampp/htdocs/genius_sports/public/js/render.js</file>
+            <file>file:/C:/xampp/htdocs/genius_sports/app/Http/Controllers/TournamentController.php</file>
             <file>file:/C:/xampp/htdocs/genius_sports/app/Tournament.php</file>
             <file>file:/C:/xampp/htdocs/genius_sports/public/js/custom.js</file>
             <file>file:/C:/xampp/htdocs/genius_sports/resources/views/layouts/app.blade.php</file>
