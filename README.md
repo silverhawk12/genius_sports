@@ -7,5 +7,6 @@
 * composer install
 * cp .env.example .env
 * edit .env file with your db credentials
-* php artisan migrate:refresh --seed /to generate database tables and seed example data or import sql directly from database/genius_sporst.sql/
+* **php artisan migrate:refresh --seed**
+/to generate database tables and seed example data or import sql directly from database/genius_sporst.sql/
 * add virtual host pointing to 'public' 
